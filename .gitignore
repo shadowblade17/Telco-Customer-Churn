@@ -1,0 +1,20 @@
+# Python cache / virtual environment
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and environment secrets
+*.log
+.env
+.streamlit/secrets.toml
